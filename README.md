@@ -1,1 +1,1 @@
-# Engineering_calculations
+# Инженерные расчеты на Python
